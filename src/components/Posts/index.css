@@ -1,0 +1,25 @@
+.list-item {
+  list-style-type: none;
+  background-color: aquamarine;
+  text-align: left;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-family: "Roboto";
+  display: flex;
+  justify-content: space-around;
+}
+.view-btn {
+  background-color: brown;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+  border-radius: 10px;
+  border: none;
+  height: 40px;
+}
+.posted-by {
+  font-family: "Roboto";
+  font-weight: 800;
+}
